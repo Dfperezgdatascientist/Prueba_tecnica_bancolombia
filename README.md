@@ -1,4 +1,4 @@
-![BC](imagenes\Bancolombia.png)
+![BC](Bancolombia.png)
 # **Prueba Técnica - Analítico/a de Ecosistemas**
 ## Prueba Analítica: Modelo Opciones de Pago
 ### Científico de Datos:

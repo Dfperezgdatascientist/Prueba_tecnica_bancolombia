@@ -28,7 +28,7 @@ Desarrollar una solución analítica E2E que permita poner en producción un mod
 
 6. **diseña un sistema de manera teórica que bosqueje una solución que permita hacer disponibles los resultados de tu modelo analítico, y que sean fácilmente consumibles por servicios externos, como páginas web, servicio móvil, etc:** <br><br>
 
-Para este caso se propone como solución se podria construir un dashboard open sourse con el framework  shiny dashboard disponible para python y R donde se puede llevar a la medida de negocio, combinando variables palancas, estrategicas, sociodemograficas, transaccionales y hacerle seguimiento al  modelo, frente a temas de backtesting, falsos positivos, etc.La construccion de Kpi's, como el impacto que genera el modelo en producción frente al el índice de cartera vencida del banco.
+Para este caso se propone como solución orquestar la producción del modelo predictivo con MLflow y se podria construir un dashboard open sourse con el framework  shiny dashboard disponible para python y R donde se puede llevar a la medida de negocio, combinando variables palancas, estrategicas, sociodemograficas, transaccionales y hacerle seguimiento al  modelo, frente a temas de backtesting, falsos positivos, etc.La construccion de Kpi's, como el impacto que genera el modelo en producción frente al el índice de cartera vencida del banco.
 
 Ejemplo:
 

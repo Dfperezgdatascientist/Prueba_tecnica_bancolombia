@@ -30,4 +30,4 @@ Desarrollar una solución analítica E2E que permita poner en producción un mod
 
 Para este caso se propone como solución de darle un from al seguimiento del modelo y la construccion del Kpi's
 
-![Dasboard](imagenes\ejemplo_dashboard_aplicativo.png)
+![Dasboard](ejemplo_dashboard_aplicativo.png)

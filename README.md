@@ -34,4 +34,6 @@ Ejemplo:
 
 ![Dasboard](ejemplo_dashboard_aplicativo.png)
 
+[URL](https://jjallaire.github.io/stock-explorer-dashboard/)
+
 Esto se puede llevar a api's donde se dispone todo el proyecto en una VM ya sea(azure,aws,GCP) y se configura la IP publica,el DNS para darle nombre a la URL:(https://www.Bancolombia_seguimiento_opciones_pago.com) y dentro del la api se configuran temas de ciberseguridad como darle credenciales a la api y recapcha

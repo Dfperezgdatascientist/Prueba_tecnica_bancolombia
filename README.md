@@ -20,9 +20,9 @@ Desarrollar una solución analítica E2E que permita poner en producción un mod
 
 2. **Solucion_desarrollo_prueba_DFPG.docx** : Documentación solución del problema<br> 
 
-3. **Resultados/resultado_prueba.csv** : Resultado predicción del modelo seleccionado fuera de muestra <br>
+3. **resultado_prueba.csv** : Resultado predicción del modelo seleccionado fuera de muestra <br>
 
-4. **Pesos_modelo\AutoML_Model_pob_ob_pg.pkl** :  Pipeline con el modelo seleccionado, pesos del modelo<br>
+4. **AutoML_Model_pob_ob_pg.pkl** :  Pipeline con el modelo seleccionado, pesos del modelo<br>
 
 5. **presentación: pendiente a la reunión**<br>
 
@@ -34,4 +34,4 @@ Ejemplo:
 
 ![Dasboard](ejemplo_dashboard_aplicativo.png)
 
-Esto se puede llevar a api's donde se dispone todo el proyecto en una VM ya sea(azure,aws,GCP) y se configura la IP publica,el DNS para darle nombre a la URL:[Hp](https://www.Bancolombia_seguimiento_obciones_pago.com) y dentro del la api se configuran temas de ciberseguridad como darle credenciales a la api y recapcha
+Esto se puede llevar a api's donde se dispone todo el proyecto en una VM ya sea(azure,aws,GCP) y se configura la IP publica,el DNS para darle nombre a la URL:(https://www.Bancolombia_seguimiento_opciones_pago.com) y dentro del la api se configuran temas de ciberseguridad como darle credenciales a la api y recapcha
